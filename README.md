@@ -40,8 +40,8 @@ and many more, including code architecture and reusability
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
-cd award-winning-website
+git clone https://github.com/dhruvbajaj13/Zentry-Awwwards-Website
+cd Zentry-Awwwards-Website
 ```
 
 **Installation**
