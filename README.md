@@ -13,9 +13,10 @@ Build a visually captivating website inspired by **[Zentry](https://zentry.com/)
 
 ## ⚙️ Tech Stack
 
-- GSAP
 - React.js
 - Tailwind CSS
+-  GSAP
+  
 
 ## 🔋 Features
 
